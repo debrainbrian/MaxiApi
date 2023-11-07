@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxiApi", "MaxiApi.csproj", "{BC449540-7228-482B-AD46-79D97E4D36A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxiApp", "..\MaxiApp\MaxiApp.csproj", "{6B799341-5B81-4472-B91D-D72E45866D44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC449540-7228-482B-AD46-79D97E4D36A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC449540-7228-482B-AD46-79D97E4D36A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC449540-7228-482B-AD46-79D97E4D36A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC449540-7228-482B-AD46-79D97E4D36A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B799341-5B81-4472-B91D-D72E45866D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B799341-5B81-4472-B91D-D72E45866D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B799341-5B81-4472-B91D-D72E45866D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B799341-5B81-4472-B91D-D72E45866D44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F90016-90AE-4688-9C02-380D70257D06}
+	EndGlobalSection
+EndGlobal
